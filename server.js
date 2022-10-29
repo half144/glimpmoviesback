@@ -10,9 +10,7 @@ const allMoviesLowerCase = db.allItems.map((movie) => ({
   poster: movie.poster,
 }));
 
-app.use(
-  cors({ credentials: true, origin: "https://glimp-half144.vercel.app" })
-);
+app.use(cors({ origin: "https://glimp-half144.vercel.app" }));
 
 app.listen(port, () => {
   console.log("API ONLINE");
