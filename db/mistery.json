@@ -1,0 +1,905 @@
+[
+  {
+    "name": "Sorria",
+    "id": "tt15474916",
+    "video": "https://embedder.net/e/tt15474916",
+    "poster": "https://image.tmdb.org/t/p/w300/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Drifting Home",
+    "id": "tt15494038",
+    "video": "https://embedder.net/e/tt15494038",
+    "poster": "https://image.tmdb.org/t/p/w300/zOkalOuwZl1KuOLIkBqVuOVpGKq.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Perfumista",
+    "id": "tt21916206",
+    "video": "https://embedder.net/e/tt21916206",
+    "poster": "https://image.tmdb.org/t/p/w300/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Nerve: Um Jogo Sem Regras",
+    "id": "tt3531824",
+    "video": "https://embedder.net/e/tt3531824",
+    "poster": "https://image.tmdb.org/t/p/w300/gzW57bccJv79IbUuQh8Bwf3Qnmi.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "[REC]",
+    "id": "tt1038988",
+    "video": "https://embedder.net/e/tt1038988",
+    "poster": "https://image.tmdb.org/t/p/w300/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Não! Não Olhe",
+    "id": "tt10954984",
+    "video": "https://embedder.net/e/tt10954984",
+    "poster": "https://image.tmdb.org/t/p/w300/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Sobrenatural: A Última Chave",
+    "id": "tt5726086",
+    "video": "https://embedder.net/e/tt5726086",
+    "poster": "https://image.tmdb.org/t/p/w300/v3RYZGwImjBUF18RV57J5QuOa31.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Cliente",
+    "id": "tt0109446",
+    "video": "https://embedder.net/e/tt0109446",
+    "poster": "https://image.tmdb.org/t/p/w300/qs2Bacljc1ihbB2gpjsWK3EKshd.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Bruxa de Blair 2: O Livro das Sombras",
+    "id": "tt0229260",
+    "video": "https://embedder.net/e/tt0229260",
+    "poster": "https://image.tmdb.org/t/p/w300/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Bruxa de Blair",
+    "id": "tt0185937",
+    "video": "https://embedder.net/e/tt0185937",
+    "poster": "https://image.tmdb.org/t/p/w300/jAKX4midH0vSm2XT54g5TWluQqw.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Prometheus",
+    "id": "tt1446714",
+    "video": "https://embedder.net/e/tt1446714",
+    "poster": "https://image.tmdb.org/t/p/w300/k1GZVllOORTiN0XTPdumt9CSAcc.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Garota Exemplar",
+    "id": "tt2267998",
+    "video": "https://embedder.net/e/tt2267998",
+    "poster": "https://image.tmdb.org/t/p/w300/aw6gmQecY6rR0UvtoqLUy7WsXTW.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Além da Vida",
+    "id": "tt0838247",
+    "video": "https://embedder.net/e/tt0838247",
+    "poster": "https://image.tmdb.org/t/p/w300/miEZN9iocT8K7baPg8DR2492rm3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Lacuna",
+    "id": "tt7165300",
+    "video": "https://embedder.net/e/tt7165300",
+    "poster": "https://image.tmdb.org/t/p/w300/qe1sB6fYCieSbWaSEa7ijf4oAp1.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Os Oito Odiados",
+    "id": "tt3460252",
+    "video": "https://embedder.net/e/tt3460252",
+    "poster": "https://image.tmdb.org/t/p/w300/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Bruxa - Parte 2: A Colisão",
+    "id": "tt13721828",
+    "video": "https://embedder.net/e/tt13721828",
+    "poster": "https://image.tmdb.org/t/p/w300/cah6iIYQBctvCmBjsKGb1NCiygr.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Os Outros",
+    "id": "tt0230600",
+    "video": "https://embedder.net/e/tt0230600",
+    "poster": "https://image.tmdb.org/t/p/w300/5dEa7JRjc5BuJPVQKsn9FpDZSIt.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Oitava Noite",
+    "id": "tt14781176",
+    "video": "https://embedder.net/e/tt14781176",
+    "poster": "https://image.tmdb.org/t/p/w300/a11TdGOWqASvbeMs7q0a1YLa5K.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Chegada",
+    "id": "tt2543164",
+    "video": "https://embedder.net/e/tt2543164",
+    "poster": "https://image.tmdb.org/t/p/w300/4av3oWqgZ8QOl96xitvEovcu8jm.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Autópsia",
+    "id": "tt3289956",
+    "video": "https://embedder.net/e/tt3289956",
+    "poster": "https://image.tmdb.org/t/p/w300/wFiOQDl037qYICAn4RExrwbgCEF.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Desespero",
+    "id": "tt0129871",
+    "video": "https://embedder.net/e/tt0129871",
+    "poster": "https://image.tmdb.org/t/p/w300/bjELwweoUlLSk9DtOS3MXBJVLTX.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Identidade Paranormal",
+    "id": "tt1179069",
+    "video": "https://embedder.net/e/tt1179069",
+    "poster": "https://image.tmdb.org/t/p/w300/3jekGSLQmIjT8q51V3OMoXPO8Pr.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Casa do Lago",
+    "id": "tt0410297",
+    "video": "https://embedder.net/e/tt0410297",
+    "poster": "https://image.tmdb.org/t/p/w300/niavrwLXMY09O5x3mrlE4OrMN6O.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Silent Hill: Revelação",
+    "id": "tt0938330",
+    "video": "https://embedder.net/e/tt0938330",
+    "poster": "https://image.tmdb.org/t/p/w300/7936Tglq1tM3eMXpssyrn0CxjeD.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Terror em Silent Hill",
+    "id": "tt0384537",
+    "video": "https://embedder.net/e/tt0384537",
+    "poster": "https://image.tmdb.org/t/p/w300/pg39SwqpfSXiC6dVl6leFpFmJML.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Mistério das Palavras Cruzadas: Enigma Mortal",
+    "id": "tt11686354",
+    "video": "https://embedder.net/e/tt11686354",
+    "poster": "https://image.tmdb.org/t/p/w300/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Sétima Alma",
+    "id": "tt0872230",
+    "video": "https://embedder.net/e/tt0872230",
+    "poster": "https://image.tmdb.org/t/p/w300/8tAJocbUDJduVv0G3wcbERtG7ys.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Árvore da Maldição",
+    "id": "tt0099710",
+    "video": "https://embedder.net/e/tt0099710",
+    "poster": "https://image.tmdb.org/t/p/w300/b43ttjvm9chvwMVloLR9mDVOLAu.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Visita",
+    "id": "tt3567288",
+    "video": "https://embedder.net/e/tt3567288",
+    "poster": "https://image.tmdb.org/t/p/w300/zRjwHqHG36ZZ96PAuDNFWwaFVQy.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Boneco do Mal",
+    "id": "tt3882082",
+    "video": "https://embedder.net/e/tt3882082",
+    "poster": "https://image.tmdb.org/t/p/w300/q4T7U5uhuNsHQBpFF2iSfKOuhgX.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Brahms: Boneco do Mal II",
+    "id": "tt9173418",
+    "video": "https://embedder.net/e/tt9173418",
+    "poster": "https://image.tmdb.org/t/p/w300/nIv88OjKOw7tLMTpjAS2HsZZU1X.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Elevador da Morte",
+    "id": "tt0247303",
+    "video": "https://embedder.net/e/tt0247303",
+    "poster": "https://image.tmdb.org/t/p/w300/iFq2Jp3MQefzRPrMzUlLMa0vkDO.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Um Espião e Meio",
+    "id": "tt1489889",
+    "video": "https://embedder.net/e/tt1489889",
+    "poster": "https://image.tmdb.org/t/p/w300/4IG7rUmzM3pdZvWwBBLIwDfFVim.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Sob o Domínio do Mal",
+    "id": "tt0368008",
+    "video": "https://embedder.net/e/tt0368008",
+    "poster": "https://image.tmdb.org/t/p/w300/2un9WXrDwhcsyhu5Y5VreyFz9Ot.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Lago da Mort‪e‬",
+    "id": "tt9272198",
+    "video": "https://embedder.net/e/tt9272198",
+    "poster": "https://image.tmdb.org/t/p/w300/pcTq1gst6NH2RQZy5t8iWRIkvcD.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Sacrifício do Cervo Sagrado",
+    "id": "tt5715874",
+    "video": "https://embedder.net/e/tt5715874",
+    "poster": "https://image.tmdb.org/t/p/w300/xb52s7YrVQEusl4azCI3ItyWDIW.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Deixe-me Entrar",
+    "id": "tt1228987",
+    "video": "https://embedder.net/e/tt1228987",
+    "poster": "https://image.tmdb.org/t/p/w300/nLtskZmHPLRVRazLGXS7DWY5wtN.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Rede",
+    "id": "tt0113957",
+    "video": "https://embedder.net/e/tt0113957",
+    "poster": "https://image.tmdb.org/t/p/w300/cRb3PYrt3YvCsi9FsGpq61FeDZt.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Navio Fantasma",
+    "id": "tt0288477",
+    "video": "https://embedder.net/e/tt0288477",
+    "poster": "https://image.tmdb.org/t/p/w300/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Espada de Deus - A Última Cruzada",
+    "id": "tt7240616",
+    "video": "https://embedder.net/e/tt7240616",
+    "poster": "https://image.tmdb.org/t/p/w300/sasYy2Hl5uplpT7jwQflFDANZXm.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": null,
+    "id": "",
+    "video": "null",
+    "poster": null,
+    "genre": "mistery"
+  },
+  {
+    "name": null,
+    "id": "",
+    "video": "null",
+    "poster": null,
+    "genre": "mistery"
+  },
+  {
+    "name": null,
+    "id": "",
+    "video": "null",
+    "poster": null,
+    "genre": "mistery"
+  },
+  {
+    "name": "Plano de Voo",
+    "id": "tt0408790",
+    "video": "https://embedder.net/e/tt0408790",
+    "poster": "https://image.tmdb.org/t/p/w300/pmiuoYVyV1YxxZ1EjwIuHIgtXPt.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Death Note: O Primeiro Nome",
+    "id": "tt0758742",
+    "video": "https://embedder.net/e/tt0758742",
+    "poster": "https://image.tmdb.org/t/p/w300/jx6E3bufNYBdzPNkVLEvEKOLwq5.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Lost Girls: Os Crimes de Long Island",
+    "id": "tt3111426",
+    "video": "https://embedder.net/e/tt3111426",
+    "poster": "https://image.tmdb.org/t/p/w300/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Rastros de um Crime",
+    "id": "tt6550808",
+    "video": "https://embedder.net/e/tt6550808",
+    "poster": "https://image.tmdb.org/t/p/w300/bT90ikAfeBHDkijtNbtLA7vq6st.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Lenda do Tesouro Perdido",
+    "id": "tt0368891",
+    "video": "https://embedder.net/e/tt0368891",
+    "poster": "https://image.tmdb.org/t/p/w300/5TAQBqvokRt2qHEgi7ipeX1Bif9.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Agora Estamos Sozinhos",
+    "id": "tt6169694",
+    "video": "https://embedder.net/e/tt6169694",
+    "poster": "https://image.tmdb.org/t/p/w300/dnW8wWx1xulYgHqXuVn9Pj7HnCX.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Ligação",
+    "id": "tt10530176",
+    "video": "https://embedder.net/e/tt10530176",
+    "poster": "https://image.tmdb.org/t/p/w300/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Tomorrowland: Um Lugar Onde Nada é Impossível",
+    "id": "tt1964418",
+    "video": "https://embedder.net/e/tt1964418",
+    "poster": "https://image.tmdb.org/t/p/w300/aULFubx32WbnCIx2jaYxGnIfD56.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Lenda do Tesouro Perdido: Livro dos Segredos",
+    "id": "tt0465234",
+    "video": "https://embedder.net/e/tt0465234",
+    "poster": "https://image.tmdb.org/t/p/w300/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Possessão de Deborah Logan",
+    "id": "tt3387648",
+    "video": "https://embedder.net/e/tt3387648",
+    "poster": "https://image.tmdb.org/t/p/w300/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Ouija: Origem do Mal",
+    "id": "tt4361050",
+    "video": "https://embedder.net/e/tt4361050",
+    "poster": "https://image.tmdb.org/t/p/w300/zTIAc7HvOrd1OMz0YFtzdfTUBlt.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Scooby-Doo! e a Maldição do Monstro do Lago",
+    "id": "tt1618435",
+    "video": "https://embedder.net/e/tt1618435",
+    "poster": "https://image.tmdb.org/t/p/w300/13anKM1yMz5cSUKZ214dSJzUlVf.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado",
+    "id": "tt0130018",
+    "video": "https://embedder.net/e/tt0130018",
+    "poster": "https://image.tmdb.org/t/p/w300/Gp8fkFl2vMTA6yvpZ5eRNWugj3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Eu Sei o Que Vocês Fizeram no Verão Passado",
+    "id": "tt0119345",
+    "video": "https://embedder.net/e/tt0119345",
+    "poster": "https://image.tmdb.org/t/p/w300/f9NcxSMub4XCjYEvVURQij1EtbJ.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Labirinto",
+    "id": "tt8594376",
+    "video": "https://embedder.net/e/tt8594376",
+    "poster": "https://image.tmdb.org/t/p/w300/j5zBj7JZIxBYscYjyOap7TpU2Co.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Cor Que Caiu do Espaço",
+    "id": "tt5073642",
+    "video": "https://embedder.net/e/tt5073642",
+    "poster": "https://image.tmdb.org/t/p/w300/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Chamado",
+    "id": "tt0298130",
+    "video": "https://embedder.net/e/tt0298130",
+    "poster": "https://image.tmdb.org/t/p/w300/4skN151KEKtJQSLJ7zkWSDGE0DJ.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Perseguição: A Estrada da Morte",
+    "id": "tt0206314",
+    "video": "https://embedder.net/e/tt0206314",
+    "poster": "https://image.tmdb.org/t/p/w300/fRL8qsaWPj0pZ7XMslQZxT3V0hC.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Sala",
+    "id": "tt8485364",
+    "video": "https://embedder.net/e/tt8485364",
+    "poster": "https://image.tmdb.org/t/p/w300/5HzK757cMoFxbRGxn8xo3gBUJcu.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Pesadelo",
+    "id": "tt0357507",
+    "video": "https://embedder.net/e/tt0357507",
+    "poster": "https://image.tmdb.org/t/p/w300/sKQ4P6G2GZQ8EclptpgaVBxASl8.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Escape Room 2: Tensão Máxima",
+    "id": "tt9844522",
+    "video": "https://embedder.net/e/tt9844522",
+    "poster": "https://image.tmdb.org/t/p/w300/bXgBn9U0SGmk4zUOWLwkv2z1PKi.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Escape Room",
+    "id": "tt5886046",
+    "video": "https://embedder.net/e/tt5886046",
+    "poster": "https://image.tmdb.org/t/p/w300/tOK0PsGlFymuXQ9BHmigZXJcSQj.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Cubo Zero",
+    "id": "tt0377713",
+    "video": "https://embedder.net/e/tt0377713",
+    "poster": "https://image.tmdb.org/t/p/w300/87ufWmIQPhm9UvBIrFSR1K9IKXk.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Cubo 2: Hypercubo",
+    "id": "tt0285492",
+    "video": "https://embedder.net/e/tt0285492",
+    "poster": "https://image.tmdb.org/t/p/w300/zjhxmYQcJcU8P2I5gwxw4z4IVAm.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Premonição 2",
+    "id": "tt0309593",
+    "video": "https://embedder.net/e/tt0309593",
+    "poster": "https://image.tmdb.org/t/p/w300/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Rua do Medo: 1978 - Parte 2",
+    "id": "tt9701940",
+    "video": "https://embedder.net/e/tt9701940",
+    "poster": "https://image.tmdb.org/t/p/w300/uicSprflqrrhWykOuJjHQ9lSLJ1.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Rua do Medo: 1666 – Parte 3",
+    "id": "tt9701942",
+    "video": "https://embedder.net/e/tt9701942",
+    "poster": "https://image.tmdb.org/t/p/w300/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Rua do Medo: 1994 - Parte 1",
+    "id": "tt6566576",
+    "video": "https://embedder.net/e/tt6566576",
+    "poster": "https://image.tmdb.org/t/p/w300/kIABUqs2kfFBDa10l2tFxTIKZMH.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Contra o Tempo",
+    "id": "tt0945513",
+    "video": "https://embedder.net/e/tt0945513",
+    "poster": "https://image.tmdb.org/t/p/w300/qMQx47D8yRowguSqjRBqHvqVI6y.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Antes Que Eu Vá",
+    "id": "tt1691916",
+    "video": "https://embedder.net/e/tt1691916",
+    "poster": "https://image.tmdb.org/t/p/w300/yv2SEabyL9BVVJsmXM52s9kTHLD.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Assassinato no Expresso do Oriente",
+    "id": "tt3402236",
+    "video": "https://embedder.net/e/tt3402236",
+    "poster": "https://image.tmdb.org/t/p/w300/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Herança Maldita",
+    "id": "tt0112643",
+    "video": "https://embedder.net/e/tt0112643",
+    "poster": "https://image.tmdb.org/t/p/w300/rZv3aUkNngyZeiCgAjOEF5n0tve.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Maligno",
+    "id": "tt3811906",
+    "video": "https://embedder.net/e/tt3811906",
+    "poster": "https://image.tmdb.org/t/p/w300/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Harry Potter e a Ordem da Fênix",
+    "id": "tt0373889",
+    "video": "https://embedder.net/e/tt0373889",
+    "poster": "https://image.tmdb.org/t/p/w300/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Casa Sombria",
+    "id": "tt9731534",
+    "video": "https://embedder.net/e/tt9731534",
+    "poster": "https://image.tmdb.org/t/p/w300/sDbo3qnxxMnC1f4RMfmUlcKNNST.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "DNA Assassino",
+    "id": "tt10696018",
+    "video": "https://embedder.net/e/tt10696018",
+    "poster": "https://image.tmdb.org/t/p/w300/bak6EiWHJBvb0SYPt0tBspX5nq5.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "É Proibido Amar",
+    "id": "tt15484488",
+    "video": "https://embedder.net/e/tt15484488",
+    "poster": "https://image.tmdb.org/t/p/w300/wQI7qX0doSCUQe605UkHuZlDrYh.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Bruxa da Casa ao Lado",
+    "id": "tt8305806",
+    "video": "https://embedder.net/e/tt8305806",
+    "poster": "https://image.tmdb.org/t/p/w300/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Cura",
+    "id": "tt4731136",
+    "video": "https://embedder.net/e/tt4731136",
+    "poster": "https://image.tmdb.org/t/p/w300/bwkxGDgPNtArXB7tuaKX08qH0tU.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Scooby-Doo 2: Monstros à Solta",
+    "id": "tt0331632",
+    "video": "https://embedder.net/e/tt0331632",
+    "poster": "https://image.tmdb.org/t/p/w300/x2K8t5nybJfoVOHulIq4ONyeSi0.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "mãe!",
+    "id": "tt5109784",
+    "video": "https://embedder.net/e/tt5109784",
+    "poster": "https://image.tmdb.org/t/p/w300/ldEZHi9jyfAhJuSUaEWd7qf7nU3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Enola Holmes",
+    "id": "tt7846844",
+    "video": "https://embedder.net/e/tt7846844",
+    "poster": "https://image.tmdb.org/t/p/w300/mmRu2io9K21RioNDEWgE2eD88gR.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Sexto Sentido",
+    "id": "tt0167404",
+    "video": "https://embedder.net/e/tt0167404",
+    "poster": "https://image.tmdb.org/t/p/w300/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Entidade",
+    "id": "tt1922777",
+    "video": "https://embedder.net/e/tt1922777",
+    "poster": "https://image.tmdb.org/t/p/w300/9FPx4MdIPsmbkXM0W1f23u1aoIC.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "2:22 - Encontro Marcado",
+    "id": "tt1131724",
+    "video": "https://embedder.net/e/tt1131724",
+    "poster": "https://image.tmdb.org/t/p/w300/t8uRzSCDenLoMZ8TJni9SAbif5S.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Espíritos 2: Você Nunca Está Sozinho",
+    "id": "tt0484090",
+    "video": "https://embedder.net/e/tt0484090",
+    "poster": "https://image.tmdb.org/t/p/w300/zNGLi2oxX7pLcNRjFb1iGfUX7hw.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Espíritos: A Morte Esta Ao Seu Lado",
+    "id": "tt0440803",
+    "video": "https://embedder.net/e/tt0440803",
+    "poster": "https://image.tmdb.org/t/p/w300/kvqiPilplvzdfnzDerCxIVsegX8.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Calmaria",
+    "id": "tt6476140",
+    "video": "https://embedder.net/e/tt6476140",
+    "poster": "https://image.tmdb.org/t/p/w300/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Ritual",
+    "id": "tt5638642",
+    "video": "https://embedder.net/e/tt5638642",
+    "poster": "https://image.tmdb.org/t/p/w300/to3NxQoBCaqxbBDkJb3lPvhHpcN.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Os Segredos do Castelo",
+    "id": "tt5952138",
+    "video": "https://embedder.net/e/tt5952138",
+    "poster": "https://image.tmdb.org/t/p/w300/ur3uasD8CkiNOWUu5Hti3HW2Cv3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Pânico",
+    "id": "tt11245972",
+    "video": "https://embedder.net/e/tt11245972",
+    "poster": "https://image.tmdb.org/t/p/w300/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Nós",
+    "id": "tt6857112",
+    "video": "https://embedder.net/e/tt6857112",
+    "poster": "https://image.tmdb.org/t/p/w300/5ncjQfUDr0oRKnfpdAXobJFbnao.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Ninguém Sai Vivo",
+    "id": "tt13056008",
+    "video": "https://embedder.net/e/tt13056008",
+    "poster": "https://image.tmdb.org/t/p/w300/tqdeUuieFW0oZ0yHU3RcYycUsxL.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Scooby-Doo! em Cadê a minha Múmia",
+    "id": "tt0480461",
+    "video": "https://embedder.net/e/tt0480461",
+    "poster": "https://image.tmdb.org/t/p/w300/4RcIwxZCB9QAEMXXkdAWbGDk9kX.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Scooby-Doo! E a Lenda do Fantasmossauro",
+    "id": "tt1777608",
+    "video": "https://embedder.net/e/tt1777608",
+    "poster": "https://image.tmdb.org/t/p/w300/UOjLHNKWkWuT4DuYbXWnGMdPM3.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Nem um Passo em Falso",
+    "id": "tt11525644",
+    "video": "https://embedder.net/e/tt11525644",
+    "poster": "https://image.tmdb.org/t/p/w300/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Um Lugar Secreto",
+    "id": "tt11307724",
+    "video": "https://embedder.net/e/tt11307724",
+    "poster": "https://image.tmdb.org/t/p/w300/c49uzZOOa69ZrcHR4O4k7mqwB6J.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Um Clássico Filme de Terror",
+    "id": "tt12877640",
+    "video": "https://embedder.net/e/tt12877640",
+    "poster": "https://image.tmdb.org/t/p/w300/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Halloween do Hubie",
+    "id": "tt10682266",
+    "video": "https://embedder.net/e/tt10682266",
+    "poster": "https://image.tmdb.org/t/p/w300/AhWYlsPynRZtyJH6MTsiuLGOCNu.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Alucinação Fatal",
+    "id": "tt8758086",
+    "video": "https://embedder.net/e/tt8758086",
+    "poster": "https://image.tmdb.org/t/p/w300/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Slender Man: Pesadelo Sem Rosto",
+    "id": "tt5690360",
+    "video": "https://embedder.net/e/tt5690360",
+    "poster": "https://image.tmdb.org/t/p/w300/wrb3riGsU0f9z9PWca9CIMCZLfZ.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Naquele Fim de Semana",
+    "id": "tt14817272",
+    "video": "https://embedder.net/e/tt14817272",
+    "poster": "https://image.tmdb.org/t/p/w300/zneFMc4Kts6dFPqBiEnXpQvAVah.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Quando o Demônio Chama",
+    "id": "tt11320192",
+    "video": "https://embedder.net/e/tt11320192",
+    "poster": "https://image.tmdb.org/t/p/w300/x91rdEBFATNkmt4QmaccZFtCXzO.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Os 12 Macacos",
+    "id": "tt0114746",
+    "video": "https://embedder.net/e/tt0114746",
+    "poster": "https://image.tmdb.org/t/p/w300/rAjErpTZ5MT5aOIP0TooLwcfmzm.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Cruzando a Linha",
+    "id": "tt10207710",
+    "video": "https://embedder.net/e/tt10207710",
+    "poster": "https://image.tmdb.org/t/p/w300/pm1sZsTjZ5e9buaxlbk4jYOjjUA.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Pânico 2",
+    "id": "tt0120082",
+    "video": "https://embedder.net/e/tt0120082",
+    "poster": "https://image.tmdb.org/t/p/w300/zqDrfOJ0ChhYFyv3iQyTgNZGs2B.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Pânico",
+    "id": "tt0117571",
+    "video": "https://embedder.net/e/tt0117571",
+    "poster": "https://image.tmdb.org/t/p/w300/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Loucos e Perigosos",
+    "id": "tt4694544",
+    "video": "https://embedder.net/e/tt4694544",
+    "poster": "https://image.tmdb.org/t/p/w300/zQw4fSps9BJbr5bneQGrv36ADrX.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Colecionador de Ossos",
+    "id": "tt0145681",
+    "video": "https://embedder.net/e/tt0145681",
+    "poster": "https://image.tmdb.org/t/p/w300/fP9NH4rxc0HmE1lCvbQ3AUErIml.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Relíquia Macabra",
+    "id": "tt9072352",
+    "video": "https://embedder.net/e/tt9072352",
+    "poster": "https://image.tmdb.org/t/p/w300/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Meu Filho",
+    "id": "tt13234058",
+    "video": "https://embedder.net/e/tt13234058",
+    "poster": "https://image.tmdb.org/t/p/w300/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Tempo",
+    "id": "tt10954652",
+    "video": "https://embedder.net/e/tt10954652",
+    "poster": "https://image.tmdb.org/t/p/w300/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "As Fotos Vazadas",
+    "id": "tt13729220",
+    "video": "https://embedder.net/e/tt13729220",
+    "poster": "https://image.tmdb.org/t/p/w300/yuBXTItPyXQC9FIKwiT2ZV4476a.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Watchmen: O Filme",
+    "id": "tt0409459",
+    "video": "https://embedder.net/e/tt0409459",
+    "poster": "https://image.tmdb.org/t/p/w300/oYEF02pi6goGRAXgfL0MZq5jFEo.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Segredos do Passado",
+    "id": "tt5144174",
+    "video": "https://embedder.net/e/tt5144174",
+    "poster": "https://image.tmdb.org/t/p/w300/7qW2JhqwNA6wkRNiUwSc17eLs7u.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Projeto Eden",
+    "id": "tt4542726",
+    "video": "https://embedder.net/e/tt4542726",
+    "poster": "https://image.tmdb.org/t/p/w300/q3mfUM33iSCme1iLWc2eRMqOyFy.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Zodíaco",
+    "id": "tt0443706",
+    "video": "https://embedder.net/e/tt0443706",
+    "poster": "https://image.tmdb.org/t/p/w300/otQHyCjlkcFfvUDPMdJdBMN7Rg5.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Atirador",
+    "id": "tt0822854",
+    "video": "https://embedder.net/e/tt0822854",
+    "poster": "https://image.tmdb.org/t/p/w300/qluvMxXA2p15s7egazJn9vhX5Gi.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Hellboy II: O Exército Dourado",
+    "id": "tt0411477",
+    "video": "https://embedder.net/e/tt0411477",
+    "poster": "https://image.tmdb.org/t/p/w300/2ZFnYUkYDlwJQvODkQ0JyTRZDSO.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Chinatown",
+    "id": "tt0071315",
+    "video": "https://embedder.net/e/tt0071315",
+    "poster": "https://image.tmdb.org/t/p/w300/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Entre Facas e Segredos",
+    "id": "tt8946378",
+    "video": "https://embedder.net/e/tt8946378",
+    "poster": "https://image.tmdb.org/t/p/w300/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Scooby-Doo! E a Espad‪a‬",
+    "id": "tt13676256",
+    "video": "https://embedder.net/e/tt13676256",
+    "poster": "https://image.tmdb.org/t/p/w300/zgWvMAmaWeuybWcUoKaX5EAkGDG.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "À Espreita do Mal",
+    "id": "tt6079516",
+    "video": "https://embedder.net/e/tt6079516",
+    "poster": "https://image.tmdb.org/t/p/w300/1Egbm90ioUCi9Wuzrk46v4gbNaq.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "O Novo Pesadelo: O Retorno de Freddy Krueger",
+    "id": "tt0111686",
+    "video": "https://embedder.net/e/tt0111686",
+    "poster": "https://image.tmdb.org/t/p/w300/j2QUKStp4gK4jJ5JkDPkJlpoRyk.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "Noite Passada em Soho",
+    "id": "tt9639470",
+    "video": "https://embedder.net/e/tt9639470",
+    "poster": "https://image.tmdb.org/t/p/w300/ba7YvSdEBuTjhmX5Cr7k8bVyidw.jpg",
+    "genre": "mistery"
+  },
+  {
+    "name": "A Casa da Colina",
+    "id": "tt0185371",
+    "video": "https://embedder.net/e/tt0185371",
+    "poster": "https://image.tmdb.org/t/p/w300/dYxZL1q8lZDXfrW84KCrMlVwWTj.jpg",
+    "genre": "mistery"
+  }
+]

@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Rick and Morty",
+    "id": "tt2861424",
+    "video": "https://embedder.net/e/tt2861424",
+    "poster": "https://image.tmdb.org/t/p/w300/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Candy",
+    "id": "tt13729648",
+    "video": "https://embedder.net/e/tt13729648",
+    "poster": "https://image.tmdb.org/t/p/w300/dhdcNOgApEpdwmwtUqWekHRdzwM.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Cyberpunk",
+    "id": "tt12590266",
+    "video": "https://embedder.net/e/tt12590266",
+    "poster": "https://image.tmdb.org/t/p/w300/nWvAY8yHE873adMws83XqBPf7W2.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "All of Us Are Dead",
+    "id": "tt14169960",
+    "video": "https://embedder.net/e/tt14169960",
+    "poster": "https://image.tmdb.org/t/p/w300/d9yefq8dNke4UbuqStBtUcO9TxD.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Manifest",
+    "id": "tt8421350",
+    "video": "https://embedder.net/e/tt8421350",
+    "poster": "https://image.tmdb.org/t/p/w300/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Originals",
+    "id": "tt2632424",
+    "video": "https://embedder.net/e/tt2632424",
+    "poster": "https://image.tmdb.org/t/p/w300/j4YEHjh1t9mHpdDwbqLCc04xBMY.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "House",
+    "id": "tt0412142",
+    "video": "https://embedder.net/e/tt0412142",
+    "poster": "https://image.tmdb.org/t/p/w300/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Demon Slayer",
+    "id": "tt9335498",
+    "video": "https://embedder.net/e/tt9335498",
+    "poster": "https://image.tmdb.org/t/p/w300/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Mindhunter",
+    "id": "tt5290382",
+    "video": "https://embedder.net/e/tt5290382",
+    "poster": "https://image.tmdb.org/t/p/w300/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Cine Holliúdy",
+    "id": "tt10264026",
+    "video": "https://embedder.net/e/tt10264026",
+    "poster": "https://image.tmdb.org/t/p/w300/jfIAEN0EvNcO7Hrvebmh3ONETY3.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Dahmer - Monster: The Jeffrey Dahmer Story",
+    "id": "tt13207736",
+    "video": "https://embedder.net/e/tt13207736",
+    "poster": "https://image.tmdb.org/t/p/w300/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Batman: The Animated Series",
+    "id": "tt0103359",
+    "video": "https://embedder.net/e/tt0103359",
+    "poster": "https://image.tmdb.org/t/p/w300/nmL9VZi6eTX1zhhGRUVMOycS7bx.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Segunda Chamada",
+    "id": "tt2856466",
+    "video": "https://embedder.net/e/tt2856466",
+    "poster": "https://image.tmdb.org/t/p/w300/1j6qvYQRHqh9z8NWKUlc6CwUBcX.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Star Wars: Andor",
+    "id": "tt9253284",
+    "video": "https://embedder.net/e/tt9253284",
+    "poster": "https://image.tmdb.org/t/p/w300/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Suspect",
+    "id": "tt15548144",
+    "video": "https://embedder.net/e/tt15548144",
+    "poster": "https://image.tmdb.org/t/p/w300/xnVSdfJphlpeZtJ7FyQ1ItqApBB.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Vampire Academy",
+    "id": "tt14689620",
+    "video": "https://embedder.net/e/tt14689620",
+    "poster": "https://image.tmdb.org/t/p/w300/iPGKF9Eh2Dd8ZsiXGhnFXYiGYpB.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Tell Me Lies",
+    "id": "tt13018148",
+    "video": "https://embedder.net/e/tt13018148",
+    "poster": "https://image.tmdb.org/t/p/w300/ifyPotB2JuLlrhMEliZPsTh0IaM.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "iCarly",
+    "id": "tt0972534",
+    "video": "https://embedder.net/e/tt0972534",
+    "poster": "https://image.tmdb.org/t/p/w300/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "American Gigolo",
+    "id": "tt4257262",
+    "video": "https://embedder.net/e/tt4257262",
+    "poster": "https://image.tmdb.org/t/p/w300/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Office",
+    "id": "tt0386676",
+    "video": "https://embedder.net/e/tt0386676",
+    "poster": "https://image.tmdb.org/t/p/w300/oNZAJgcGVDxjv4PtJ2xU6MPZlHh.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Big Bang Theory",
+    "id": "tt0898266",
+    "video": "https://embedder.net/e/tt0898266",
+    "poster": "https://image.tmdb.org/t/p/w300/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Détox",
+    "id": "tt21448608",
+    "video": "https://embedder.net/e/tt21448608",
+    "poster": "https://image.tmdb.org/t/p/w300/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "House of Hammer",
+    "id": "tt14549716",
+    "video": "https://embedder.net/e/tt14549716",
+    "poster": "https://image.tmdb.org/t/p/w300/nUIhSJ3BxL0d1LhWz4RnRFUKYbf.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Devil in Ohio",
+    "id": "tt15432016",
+    "video": "https://embedder.net/e/tt15432016",
+    "poster": "https://image.tmdb.org/t/p/w300/ubfgydKfgAYxGAx9wNMIR16XAG2.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "이상한 변호사 우영우",
+    "id": "tt20869502",
+    "video": "https://embedder.net/e/tt20869502",
+    "poster": "https://image.tmdb.org/t/p/w300/jy72O96OgXAN5aduymYKkM8q53W.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Rise of the Teenage Mutant Ninja Turtles",
+    "id": "tt9784708",
+    "video": "https://embedder.net/e/tt9784708",
+    "poster": "https://image.tmdb.org/t/p/w300/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Alma",
+    "id": "tt13106334",
+    "video": "https://embedder.net/e/tt13106334",
+    "poster": "https://image.tmdb.org/t/p/w300/q2DYvuiXdSwUOEIXzflxbIP8MkX.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Arcanjo Renegado",
+    "id": "tt10759006",
+    "video": "https://embedder.net/e/tt10759006",
+    "poster": "https://image.tmdb.org/t/p/w300/phgHV1brCV5K5TJaaOlUXculg0g.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Surfside Girls",
+    "id": "tt16390162",
+    "video": "https://embedder.net/e/tt16390162",
+    "poster": "https://image.tmdb.org/t/p/w300/fq9N06LlnShJvCf7G4EZxAb8qZf.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Kleo",
+    "id": "tt15135104",
+    "video": "https://embedder.net/e/tt15135104",
+    "poster": "https://image.tmdb.org/t/p/w300/3X8pqDCpkUvrF8fzClJe8T1jZ4b.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Bad Sisters",
+    "id": "tt15469618",
+    "video": "https://embedder.net/e/tt15469618",
+    "poster": "https://image.tmdb.org/t/p/w300/yAkwOx16FaLFon6XmOhgyzQ7j0c.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Infiniti",
+    "id": "tt14902026",
+    "video": "https://embedder.net/e/tt14902026",
+    "poster": "https://image.tmdb.org/t/p/w300/eUSTwLfug2sHveJyanvINJ2hkcA.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Tales of the Walking Dead",
+    "id": "tt15669534",
+    "video": "https://embedder.net/e/tt15669534",
+    "poster": "https://image.tmdb.org/t/p/w300/zRMUHvTgQ79zteQafNI46Nd9XFm.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "House of the Dragon",
+    "id": "tt11198330",
+    "video": "https://embedder.net/e/tt11198330",
+    "poster": "https://image.tmdb.org/t/p/w300/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Nada Suspeitos",
+    "id": "tt15096920",
+    "video": "https://embedder.net/e/tt15096920",
+    "poster": "https://image.tmdb.org/t/p/w300/43tAwJwz3fJwKl5TqNIkYgatuXY.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "アオハライド",
+    "id": "tt3592708",
+    "video": "https://embedder.net/e/tt3592708",
+    "poster": "https://image.tmdb.org/t/p/w300/t9F4O5llagb7TOi17tZN6F9ygiJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ゲーマーズ！",
+    "id": "tt7163698",
+    "video": "https://embedder.net/e/tt7163698",
+    "poster": "https://image.tmdb.org/t/p/w300/2VjS9XA68JUPBUFsX9NTuXBqR9e.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+    "id": "tt9522300",
+    "video": "https://embedder.net/e/tt9522300",
+    "poster": "https://image.tmdb.org/t/p/w300/xxdu5VfiQLN4ZhA4VMw3tJ1Pi6T.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "NO.6",
+    "id": "tt2350826",
+    "video": "https://embedder.net/e/tt2350826",
+    "poster": "https://image.tmdb.org/t/p/w300/aF9Sic4I7LSNZhh7jZ5ehtf4shm.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ギヴン",
+    "id": "tt10479420",
+    "video": "https://embedder.net/e/tt10479420",
+    "poster": "https://image.tmdb.org/t/p/w300/pdDCcAq8RNSZNk81PXYoHNUPHjn.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "キルラキル",
+    "id": "tt3114390",
+    "video": "https://embedder.net/e/tt3114390",
+    "poster": "https://image.tmdb.org/t/p/w300/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ブラック★ロックシューター",
+    "id": "tt2198397",
+    "video": "https://embedder.net/e/tt2198397",
+    "poster": "https://image.tmdb.org/t/p/w300/6WV5KcDVoe8L17Q8nQqCOHPvlRF.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "リトルバスターズ!",
+    "id": "tt2309408",
+    "video": "https://embedder.net/e/tt2309408",
+    "poster": "https://image.tmdb.org/t/p/w300/cjMfB3K4ODfz160KmWMuiNZbqKf.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "佐々木と宮野",
+    "id": "tt14980764",
+    "video": "https://embedder.net/e/tt14980764",
+    "poster": "https://image.tmdb.org/t/p/w300/qhxx6OS5h7fACjZ2MfHDtD1VRYD.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "BURN THE WITCH",
+    "id": "tt12011442",
+    "video": "https://embedder.net/e/tt12011442",
+    "poster": "https://image.tmdb.org/t/p/w300/eNq68NjT1KOdorphIqYeZF0BM9b.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "美少女戦士セーラームーン",
+    "id": "tt0103369",
+    "video": "https://embedder.net/e/tt0103369",
+    "poster": "https://image.tmdb.org/t/p/w300/ylo2jRmsVCYAXcL1qX2U9GvxpZ7.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "魔法少女まどか☆マギカ",
+    "id": "tt1773185",
+    "video": "https://embedder.net/e/tt1773185",
+    "poster": "https://image.tmdb.org/t/p/w300/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "神様はじめました",
+    "id": "tt2320220",
+    "video": "https://embedder.net/e/tt2320220",
+    "poster": "https://image.tmdb.org/t/p/w300/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "炎炎ノ消防隊",
+    "id": "tt9307686",
+    "video": "https://embedder.net/e/tt9307686",
+    "poster": "https://image.tmdb.org/t/p/w300/qDNgM4STqdzl4IBMyqCVMIr6uUV.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Impuros",
+    "id": "tt9070896",
+    "video": "https://embedder.net/e/tt9070896",
+    "poster": "https://image.tmdb.org/t/p/w300/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "She-Hulk: Attorney at Law",
+    "id": "tt10857160",
+    "video": "https://embedder.net/e/tt10857160",
+    "poster": "https://image.tmdb.org/t/p/w300/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ありふれた職業で世界最強",
+    "id": "tt10431290",
+    "video": "https://embedder.net/e/tt10431290",
+    "poster": "https://image.tmdb.org/t/p/w300/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Act",
+    "id": "tt8682948",
+    "video": "https://embedder.net/e/tt8682948",
+    "poster": "https://image.tmdb.org/t/p/w300/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Scream Queens",
+    "id": "tt4145384",
+    "video": "https://embedder.net/e/tt4145384",
+    "poster": "https://image.tmdb.org/t/p/w300/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Dragon Prince",
+    "id": "tt8688814",
+    "video": "https://embedder.net/e/tt8688814",
+    "poster": "https://image.tmdb.org/t/p/w300/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Midnight Gospel",
+    "id": "tt11639414",
+    "video": "https://embedder.net/e/tt11639414",
+    "poster": "https://image.tmdb.org/t/p/w300/me3kxfiFRkdto6SmDQv0nczjfmP.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Owl House",
+    "id": "tt8050756",
+    "video": "https://embedder.net/e/tt8050756",
+    "poster": "https://image.tmdb.org/t/p/w300/c3ygNz5qEETOUSAWa7v6B7gT8JS.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "継母の連れ子が元カノだった",
+    "id": "tt19848112",
+    "video": "https://embedder.net/e/tt19848112",
+    "poster": "https://image.tmdb.org/t/p/w300/seG0zsW4vz5J8AxRoi1XBNobcNb.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "異世界迷宮でハーレムを",
+    "id": "tt13628870",
+    "video": "https://embedder.net/e/tt13628870",
+    "poster": "https://image.tmdb.org/t/p/w300/czPIwYnUN0NmGd0Pcnz3TOqvwDN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "咲う アルスノトリア すんっ！",
+    "id": "tt21101866",
+    "video": "https://embedder.net/e/tt21101866",
+    "poster": "https://image.tmdb.org/t/p/w300/ztRF3KZG9s2P64FMNM94Mh6dvZa.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "乙女ゲー世界はモブに厳しい世界です",
+    "id": "tt16255458",
+    "video": "https://embedder.net/e/tt16255458",
+    "poster": "https://image.tmdb.org/t/p/w300/nTNqhbHL6Elwx7Uex6Zy03JRSP9.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "โรงเรียนผีมีอยู่ว่า…",
+    "id": "tt21332800",
+    "video": "https://embedder.net/e/tt21332800",
+    "poster": "https://image.tmdb.org/t/p/w300/mQhR6dkZ5iFr6c8uIwd3cp8oJr1.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Iron Chef: Brasil",
+    "id": "tt19113328",
+    "video": "https://embedder.net/e/tt19113328",
+    "poster": "https://image.tmdb.org/t/p/w300/xXwZruNz8qFkDDVtMTpzswWMRuq.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Brooklyn Nine-Nine",
+    "id": "tt2467372",
+    "video": "https://embedder.net/e/tt2467372",
+    "poster": "https://image.tmdb.org/t/p/w300/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Love, Death & Robots",
+    "id": "tt9561862",
+    "video": "https://embedder.net/e/tt9561862",
+    "poster": "https://image.tmdb.org/t/p/w300/cRiDlzzZC5lL7fvImuSjs04SUIJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Over the Garden Wall",
+    "id": "tt3718778",
+    "video": "https://embedder.net/e/tt3718778",
+    "poster": "https://image.tmdb.org/t/p/w300/3R6R5eMtOEOkvkc1oNZ9ZXvRtGi.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Narcos",
+    "id": "tt2707408",
+    "video": "https://embedder.net/e/tt2707408",
+    "poster": "https://image.tmdb.org/t/p/w300/iTxNuSp5JEKLf4rLVz5aFulJD3k.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Cut Brasil",
+    "id": "tt16366810",
+    "video": "https://embedder.net/e/tt16366810",
+    "poster": "https://image.tmdb.org/t/p/w300/jxmqOLNQVwDbYwExvBIre1AMrOd.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Following",
+    "id": "tt2071645",
+    "video": "https://embedder.net/e/tt2071645",
+    "poster": "https://image.tmdb.org/t/p/w300/tiSvhb2cyPAULTql5atgxceNvpF.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Black Bird",
+    "id": "tt4301160",
+    "video": "https://embedder.net/e/tt4301160",
+    "poster": "https://image.tmdb.org/t/p/w300/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Legend of Korra",
+    "id": "tt1695360",
+    "video": "https://embedder.net/e/tt1695360",
+    "poster": "https://image.tmdb.org/t/p/w300/yDRskxx7kXoB9ImdXi05Db5EG3L.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "id": "tt0417299",
+    "video": "https://embedder.net/e/tt0417299",
+    "poster": "https://image.tmdb.org/t/p/w300/8RFAXPLs3qg5YVYbv5ME46syBKy.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Love, Victor",
+    "id": "tt10166602",
+    "video": "https://embedder.net/e/tt10166602",
+    "poster": "https://image.tmdb.org/t/p/w300/8iie5Q0aXy5Ynr2M3iRmozqWfPJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Lilo e Stitch: A Série",
+    "id": "tt0364774",
+    "video": "https://embedder.net/e/tt0364774",
+    "poster": "https://image.tmdb.org/t/p/w300/plwazYXel3bm2h2cSNr2Jhijw4J.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Under the Banner of Heaven",
+    "id": "tt1998372",
+    "video": "https://embedder.net/e/tt1998372",
+    "poster": "https://image.tmdb.org/t/p/w300/oFkkPhqmsrpWkBJnqeuQdThOypN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Bear",
+    "id": "tt14452776",
+    "video": "https://embedder.net/e/tt14452776",
+    "poster": "https://image.tmdb.org/t/p/w300/e75gHEv4115AURmW16jpU6ZtMuD.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Deuce",
+    "id": "tt4998350",
+    "video": "https://embedder.net/e/tt4998350",
+    "poster": "https://image.tmdb.org/t/p/w300/tKFUwmue5g45rthZOyYWd7l931y.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Girls",
+    "id": "tt1723816",
+    "video": "https://embedder.net/e/tt1723816",
+    "poster": "https://image.tmdb.org/t/p/w300/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Warrior Nun",
+    "id": "tt9059350",
+    "video": "https://embedder.net/e/tt9059350",
+    "poster": "https://image.tmdb.org/t/p/w300/77OM9jMJ8nglaolHLwrAW7kvadV.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Rebelde",
+    "id": "tt14153686",
+    "video": "https://embedder.net/e/tt14153686",
+    "poster": "https://image.tmdb.org/t/p/w300/b1IBsimEJOLjBLYsdBZ1VAcmq73.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Justice League",
+    "id": "tt0275137",
+    "video": "https://embedder.net/e/tt0275137",
+    "poster": "https://image.tmdb.org/t/p/w300/e3pO4vDkyEa67whqLBdwFmQb0xy.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Pacto Brutal: O Assassinato de Daniella Perez",
+    "id": "tt21339770",
+    "video": "https://embedder.net/e/tt21339770",
+    "poster": "https://image.tmdb.org/t/p/w300/7tE21vgcDLCxRd5LpuMC0tJPqYH.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "BanG Dream!",
+    "id": "tt6460600",
+    "video": "https://embedder.net/e/tt6460600",
+    "poster": "https://image.tmdb.org/t/p/w300/xiSuITwX1KbHpq5SdgmfXf5HXGC.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Gravity Falls",
+    "id": "tt1865718",
+    "video": "https://embedder.net/e/tt1865718",
+    "poster": "https://image.tmdb.org/t/p/w300/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "100万の命の上に俺は立っている",
+    "id": "tt12706854",
+    "video": "https://embedder.net/e/tt12706854",
+    "poster": "https://image.tmdb.org/t/p/w300/oEWlre1wLWCPRT9l5wQl7qpo70e.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "東京喰種トーキョーグール",
+    "id": "tt3741634",
+    "video": "https://embedder.net/e/tt3741634",
+    "poster": "https://image.tmdb.org/t/p/w300/7Xl5CxMgHK0Eh6scuxCs3YYQcNQ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Mr. Bean: The Animated Series",
+    "id": "tt0280277",
+    "video": "https://embedder.net/e/tt0280277",
+    "poster": "https://image.tmdb.org/t/p/w300/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "id": "tt11428630",
+    "video": "https://embedder.net/e/tt11428630",
+    "poster": "https://image.tmdb.org/t/p/w300/hIiVjGW7Rufg9VVvvYXEft0yuSc.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Nikola Tesla - Arquivos Perdidos",
+    "id": "tt8439492",
+    "video": "https://embedder.net/e/tt8439492",
+    "poster": "https://image.tmdb.org/t/p/w300/jnNeYCks1byH90N7pVgRNzS9tQ1.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Nudes",
+    "id": "tt10853780",
+    "video": "https://embedder.net/e/tt10853780",
+    "poster": "https://image.tmdb.org/t/p/w300/lcSE81tdj0v43A5rItgm8w8faIm.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Braqueurs: La série",
+    "id": "tt13278100",
+    "video": "https://embedder.net/e/tt13278100",
+    "poster": "https://image.tmdb.org/t/p/w300/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "黒子のバスケ",
+    "id": "tt2348803",
+    "video": "https://embedder.net/e/tt2348803",
+    "poster": "https://image.tmdb.org/t/p/w300/ftT1qtT6yWO5rfs237a466N8QRr.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "七つの大罪",
+    "id": "tt3909224",
+    "video": "https://embedder.net/e/tt3909224",
+    "poster": "https://image.tmdb.org/t/p/w300/fJ0Jy7NNdqIuYcYNqeK7YJHVLL0.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ヴァニタスの手記",
+    "id": "tt14641098",
+    "video": "https://embedder.net/e/tt14641098",
+    "poster": "https://image.tmdb.org/t/p/w300/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "TRIBE NINE",
+    "id": "tt15529750",
+    "video": "https://embedder.net/e/tt15529750",
+    "poster": "https://image.tmdb.org/t/p/w300/fH9wo23VGzWIK0rHkEEbidWpK12.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "DOTA: Dragon's Blood",
+    "id": "tt14069590",
+    "video": "https://embedder.net/e/tt14069590",
+    "poster": "https://image.tmdb.org/t/p/w300/8sa6A1DlRMWVAwWlScunrikYb5Z.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "¿Quién mató a Sara?",
+    "id": "tt11937816",
+    "video": "https://embedder.net/e/tt11937816",
+    "poster": "https://image.tmdb.org/t/p/w300/5BYyTmEqkYXIgdDPyEiAeAbhIsI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "半妖の夜叉姫",
+    "id": "tt12287748",
+    "video": "https://embedder.net/e/tt12287748",
+    "poster": "https://image.tmdb.org/t/p/w300/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "종이의 집: 공동경제구역",
+    "id": "tt13696452",
+    "video": "https://embedder.net/e/tt13696452",
+    "poster": "https://image.tmdb.org/t/p/w300/kIjuNTP6qYKsw0uRKc7EoBqFYbU.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Jupiter's Legacy",
+    "id": "tt5774002",
+    "video": "https://embedder.net/e/tt5774002",
+    "poster": "https://image.tmdb.org/t/p/w300/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "New Amsterdam",
+    "id": "tt7817340",
+    "video": "https://embedder.net/e/tt7817340",
+    "poster": "https://image.tmdb.org/t/p/w300/ixlNw73TP1TUBHqrsCjepAwnjAT.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "El internado: Las Cumbres",
+    "id": "tt11709206",
+    "video": "https://embedder.net/e/tt11709206",
+    "poster": "https://image.tmdb.org/t/p/w300/xXxPttRWKQcMPnMIglOctqYozkU.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "He-Man and the Masters of the Universe",
+    "id": "tt11465278",
+    "video": "https://embedder.net/e/tt11465278",
+    "poster": "https://image.tmdb.org/t/p/w300/gW4OSQbNLt6Fv2fuALAViqWslOa.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "House of Secrets: The Burari Deaths",
+    "id": "tt14167390",
+    "video": "https://embedder.net/e/tt14167390",
+    "poster": "https://image.tmdb.org/t/p/w300/cao9YvzYZoP6ms5OZGS4xsq0y00.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ビースターズ",
+    "id": "tt11043632",
+    "video": "https://embedder.net/e/tt11043632",
+    "poster": "https://image.tmdb.org/t/p/w300/2wM5EIOkEdf0wyaCVwdAuxiAzHM.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "A Lista Terminal",
+    "id": "tt11743610",
+    "video": "https://embedder.net/e/tt11743610",
+    "poster": "https://image.tmdb.org/t/p/w300/zAqYuJQ0VKgLRtkdlRmMqQRvCHi.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Em Casa com os Gil",
+    "id": "tt19393632",
+    "video": "https://embedder.net/e/tt19393632",
+    "poster": "https://image.tmdb.org/t/p/w300/owE3DmUp0ZFCsrJxchxL5MZCnIN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Sherwood",
+    "id": "tt13994572",
+    "video": "https://embedder.net/e/tt13994572",
+    "poster": "https://image.tmdb.org/t/p/w300/eXE14mMyJpsDcM0ctySmTWWNV60.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Becoming Elizabeth",
+    "id": "tt11444366",
+    "video": "https://embedder.net/e/tt11444366",
+    "poster": "https://image.tmdb.org/t/p/w300/c8FMSLUGf4YcVLlPZpEWNc9V0wd.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "ノラガミ",
+    "id": "tt3225270",
+    "video": "https://embedder.net/e/tt3225270",
+    "poster": "https://image.tmdb.org/t/p/w300/3DmaXur5cxXXZmpuIl4O0oeGolp.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "未来日記",
+    "id": "tt2069441",
+    "video": "https://embedder.net/e/tt2069441",
+    "poster": "https://image.tmdb.org/t/p/w300/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Kipo and the Age of Wonderbeasts",
+    "id": "tt10482560",
+    "video": "https://embedder.net/e/tt10482560",
+    "poster": "https://image.tmdb.org/t/p/w300/4yPluNRnnaO68VOhwDTA46wDXVN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "見える子ちゃん",
+    "id": "tt14271890",
+    "video": "https://embedder.net/e/tt14271890",
+    "poster": "https://image.tmdb.org/t/p/w300/oI3XhfpVoXRBdA7orxPsFkKcWKU.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "BNA ビー・エヌ・エー",
+    "id": "tt12013558",
+    "video": "https://embedder.net/e/tt12013558",
+    "poster": "https://image.tmdb.org/t/p/w300/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Diários de um Vampiro",
+    "id": "tt1405406",
+    "video": "https://embedder.net/e/tt1405406",
+    "poster": "https://image.tmdb.org/t/p/w300/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Walking Dead",
+    "id": "tt1520211",
+    "video": "https://embedder.net/e/tt1520211",
+    "poster": "https://image.tmdb.org/t/p/w300/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "La Brea",
+    "id": "tt11640018",
+    "video": "https://embedder.net/e/tt11640018",
+    "poster": "https://image.tmdb.org/t/p/w300/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Waco",
+    "id": "tt6040674",
+    "video": "https://embedder.net/e/tt6040674",
+    "poster": "https://image.tmdb.org/t/p/w300/14q24aBfJPrjumuWjKKA6Bwml2A.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Game of Thrones",
+    "id": "tt0944947",
+    "video": "https://embedder.net/e/tt0944947",
+    "poster": "https://image.tmdb.org/t/p/w300/l2ezB41chGDjXcKo24lseuXYtKP.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ms. Marvel",
+    "id": "tt10857164",
+    "video": "https://embedder.net/e/tt10857164",
+    "poster": "https://image.tmdb.org/t/p/w300/1JCPHrF9RbIO2UigJWIhHNZj6xX.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Terrores Urbanos",
+    "id": "tt9274984",
+    "video": "https://embedder.net/e/tt9274984",
+    "poster": "https://image.tmdb.org/t/p/w300/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "LOL: Se Rir, Já Era",
+    "id": "tt15573636",
+    "video": "https://embedder.net/e/tt15573636",
+    "poster": "https://image.tmdb.org/t/p/w300/ag2xnUhbrRkStDshgrfifmAXgLK.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Sentença",
+    "id": "tt18299486",
+    "video": "https://embedder.net/e/tt18299486",
+    "poster": "https://image.tmdb.org/t/p/w300/cfSLFkTRRjdZ1ZsYjH8kBYDMrZt.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Two and a Half Men",
+    "id": "tt0369179",
+    "video": "https://embedder.net/e/tt0369179",
+    "poster": "https://image.tmdb.org/t/p/w300/4OiyDEVDyqnfmuJN0QasqW4eo4a.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Boys",
+    "id": "tt1190634",
+    "video": "https://embedder.net/e/tt1190634",
+    "poster": "https://image.tmdb.org/t/p/w300/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "SPY×FAMILY",
+    "id": "tt13706018",
+    "video": "https://embedder.net/e/tt13706018",
+    "poster": "https://image.tmdb.org/t/p/w300/bQoQ6GT5G0NU252gdEMYhVwWMfv.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Essex Serpent",
+    "id": "tt12976224",
+    "video": "https://embedder.net/e/tt12976224",
+    "poster": "https://image.tmdb.org/t/p/w300/6qCCbuJ5jn6MNH8oxV0LgK5T3qL.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Night Sky",
+    "id": "tt13361448",
+    "video": "https://embedder.net/e/tt13361448",
+    "poster": "https://image.tmdb.org/t/p/w300/juwOjcai3aYJvybwAhLS79miHq1.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Baby",
+    "id": "tt12879632",
+    "video": "https://embedder.net/e/tt12879632",
+    "poster": "https://image.tmdb.org/t/p/w300/bmyNAL1ApCHeLBgxXo76SUmOgxW.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "id": "tt8466564",
+    "video": "https://embedder.net/e/tt8466564",
+    "poster": "https://image.tmdb.org/t/p/w300/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Bienvenidos a Edén",
+    "id": "tt13457822",
+    "video": "https://embedder.net/e/tt13457822",
+    "poster": "https://image.tmdb.org/t/p/w300/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Flash",
+    "id": "tt3107288",
+    "video": "https://embedder.net/e/tt3107288",
+    "poster": "https://image.tmdb.org/t/p/w300/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ideias à Venda",
+    "id": "tt17052496",
+    "video": "https://embedder.net/e/tt17052496",
+    "poster": "https://image.tmdb.org/t/p/w300/o7NJ2yXJNOEYBwJ5BjjDzl6aV1x.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Euphoria",
+    "id": "tt8772296",
+    "video": "https://embedder.net/e/tt8772296",
+    "poster": "https://image.tmdb.org/t/p/w300/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Peacemaker",
+    "id": "tt13146488",
+    "video": "https://embedder.net/e/tt13146488",
+    "poster": "https://image.tmdb.org/t/p/w300/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "id": "tt13668894",
+    "video": "https://embedder.net/e/tt13668894",
+    "poster": "https://image.tmdb.org/t/p/w300/kVelEAAPWMMXCNwsX7YVE8iOlYs.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "And Just Like That…",
+    "id": "tt13819960",
+    "video": "https://embedder.net/e/tt13819960",
+    "poster": "https://image.tmdb.org/t/p/w300/jjU3ena6YENyZeqTpB63SRj57KA.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Naomi",
+    "id": "tt13624900",
+    "video": "https://embedder.net/e/tt13624900",
+    "poster": "https://image.tmdb.org/t/p/w300/xwS6ggTI8hTkVTz1I4U6BZ48pgZ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Archive 81",
+    "id": "tt13365348",
+    "video": "https://embedder.net/e/tt13365348",
+    "poster": "https://image.tmdb.org/t/p/w300/as0QIRSbRCOE1nr6CZyOJmqQ1z3.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Superman & Lois",
+    "id": "tt11192306",
+    "video": "https://embedder.net/e/tt11192306",
+    "poster": "https://image.tmdb.org/t/p/w300/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Los Enviados",
+    "id": "tt14362156",
+    "video": "https://embedder.net/e/tt14362156",
+    "poster": "https://image.tmdb.org/t/p/w300/rCuFMVR6Tovsl8VlTzrJn4Njqk6.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Sabikui Bisco",
+    "id": "tt14187728",
+    "video": "https://embedder.net/e/tt14187728",
+    "poster": "https://image.tmdb.org/t/p/w300/dy8f1zDJkt8RgZO00FrHVHgypt3.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "NOBLESSE -ノブレス-",
+    "id": "tt12885610",
+    "video": "https://embedder.net/e/tt12885610",
+    "poster": "https://image.tmdb.org/t/p/w300/czcrMXV7oCwg0gRfTAHcphmSnVl.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Gilded Age",
+    "id": "tt4406178",
+    "video": "https://embedder.net/e/tt4406178",
+    "poster": "https://image.tmdb.org/t/p/w300/hOoMRrnB3EIxuucsGLOkv3EN33X.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Oscuro deseo",
+    "id": "tt12540080",
+    "video": "https://embedder.net/e/tt12540080",
+    "poster": "https://image.tmdb.org/t/p/w300/7nBrKoiH3vXFQtxJmM3v5cRMdpj.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ozark",
+    "id": "tt5071412",
+    "video": "https://embedder.net/e/tt5071412",
+    "poster": "https://image.tmdb.org/t/p/w300/epUO5w9nRmozR0iWCFwChT3ha6j.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Sex Education",
+    "id": "tt7767422",
+    "video": "https://embedder.net/e/tt7767422",
+    "poster": "https://image.tmdb.org/t/p/w300/cK6JhcZFpwVW9tldz3llodY2TeY.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "id": "tt0413573",
+    "video": "https://embedder.net/e/tt0413573",
+    "poster": "https://image.tmdb.org/t/p/w300/tWtGNTJUAuiM2O9wv0jejw45Sji.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Alemão: Os Dois Lados do Complexo",
+    "id": "tt3527550",
+    "video": "https://embedder.net/e/tt3527550",
+    "poster": "https://image.tmdb.org/t/p/w300/rOU8esr3ocvlc7EsqoWRLhempQJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ruptura",
+    "id": "tt11280740",
+    "video": "https://embedder.net/e/tt11280740",
+    "poster": "https://image.tmdb.org/t/p/w300/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Pam & Tommy",
+    "id": "tt13659418",
+    "video": "https://embedder.net/e/tt13659418",
+    "poster": "https://image.tmdb.org/t/p/w300/nR8yFI8e0ZzDOclpedRTIhajeYz.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Marvel's M.O.D.O.K.",
+    "id": "tt9811118",
+    "video": "https://embedder.net/e/tt9811118",
+    "poster": "https://image.tmdb.org/t/p/w300/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "id": "tt5607616",
+    "video": "https://embedder.net/e/tt5607616",
+    "poster": "https://image.tmdb.org/t/p/w300/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Tokyo Revengers",
+    "id": "tt13196080",
+    "video": "https://embedder.net/e/tt13196080",
+    "poster": "https://image.tmdb.org/t/p/w300/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Revisions リヴィジョンズ",
+    "id": "tt9522354",
+    "video": "https://embedder.net/e/tt9522354",
+    "poster": "https://image.tmdb.org/t/p/w300/h3UAL7EqEXDTfvCFQfbAyujw2Vd.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Scorpion",
+    "id": "tt3514324",
+    "video": "https://embedder.net/e/tt3514324",
+    "poster": "https://image.tmdb.org/t/p/w300/k1Edm68SE8JeOzyTafZnTOOuLTx.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ninguém Pode Saber",
+    "id": "tt9170236",
+    "video": "https://embedder.net/e/tt9170236",
+    "poster": "https://image.tmdb.org/t/p/w300/s1meF0XgKY2REZ5wMNZp7bJhVBi.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "DEVILMAN crybaby",
+    "id": "tt6660498",
+    "video": "https://embedder.net/e/tt6660498",
+    "poster": "https://image.tmdb.org/t/p/w300/tKPGUZZ7wIiirgYJr24irtwwV6N.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "id": "tt6845846",
+    "video": "https://embedder.net/e/tt6845846",
+    "poster": "https://image.tmdb.org/t/p/w300/bYhvxQdv5SABINNXZCQr16eMaA4.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Warrior",
+    "id": "tt5743796",
+    "video": "https://embedder.net/e/tt5743796",
+    "poster": "https://image.tmdb.org/t/p/w300/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Kono Subarashii Sekai Ni Shukufuku Wo!",
+    "id": "tt5370118",
+    "video": "https://embedder.net/e/tt5370118",
+    "poster": "https://image.tmdb.org/t/p/w300/goHQR8tj0KSbEr8f3uTbxpfbU13.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "A Very British Scandal",
+    "id": "tt14220870",
+    "video": "https://embedder.net/e/tt14220870",
+    "poster": "https://image.tmdb.org/t/p/w300/7I6CKYo4f6sUIwJk88DnK7ss2Ka.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Saihate no Paladin",
+    "id": "tt14476244",
+    "video": "https://embedder.net/e/tt14476244",
+    "poster": "https://image.tmdb.org/t/p/w300/7Dh4SnIwj016uyK9mkABtX9tgN1.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Mr. Robot",
+    "id": "tt4158110",
+    "video": "https://embedder.net/e/tt4158110",
+    "poster": "https://image.tmdb.org/t/p/w300/exld4RI4PvPZHuWiKFlmB1T3Byt.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "As Seguidoras",
+    "id": "tt14926702",
+    "video": "https://embedder.net/e/tt14926702",
+    "poster": "https://image.tmdb.org/t/p/w300/e1WgEUT6GWMrPAq9RSrssBcOeSA.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Landscapers",
+    "id": "tt11471892",
+    "video": "https://embedder.net/e/tt11471892",
+    "poster": "https://image.tmdb.org/t/p/w300/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Insânia",
+    "id": "tt13407060",
+    "video": "https://embedder.net/e/tt13407060",
+    "poster": "https://image.tmdb.org/t/p/w300/5NYWx9VUwhAUbennLJ92ESNtUhv.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Bel-Air",
+    "id": "tt12878838",
+    "video": "https://embedder.net/e/tt12878838",
+    "poster": "https://image.tmdb.org/t/p/w300/8Qcjj6WikAVPGoRjrV1oMYcEcGw.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Umbrella Academy",
+    "id": "tt1312171",
+    "video": "https://embedder.net/e/tt1312171",
+    "poster": "https://image.tmdb.org/t/p/w300/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Cowboy Bebop",
+    "id": "tt0213338",
+    "video": "https://embedder.net/e/tt0213338",
+    "poster": "https://image.tmdb.org/t/p/w300/d32ikIpRQ4XwnW72Hu7LWDt3F5h.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Halo",
+    "id": "tt2934286",
+    "video": "https://embedder.net/e/tt2934286",
+    "poster": "https://image.tmdb.org/t/p/w300/nJUHX3XL1jMkk8honUZnUmudFb9.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "DMZ",
+    "id": "tt11057226",
+    "video": "https://embedder.net/e/tt11057226",
+    "poster": "https://image.tmdb.org/t/p/w300/wnug9DhsenurS5dWCypjZSRFnH6.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "3 Tonelada$: Assalto ao Banco Central",
+    "id": "tt18274172",
+    "video": "https://embedder.net/e/tt18274172",
+    "poster": "https://image.tmdb.org/t/p/w300/qzYfiX3t8b9Kg7RhAHl5WDi5usI.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Águas do Norte",
+    "id": "tt7660970",
+    "video": "https://embedder.net/e/tt7660970",
+    "poster": "https://image.tmdb.org/t/p/w300/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Raised by Wolves",
+    "id": "tt9170108",
+    "video": "https://embedder.net/e/tt9170108",
+    "poster": "https://image.tmdb.org/t/p/w300/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "De Volta Aos 15",
+    "id": "tt15301854",
+    "video": "https://embedder.net/e/tt15301854",
+    "poster": "https://image.tmdb.org/t/p/w300/yq7gYEYHU3u4UtlpqqX4kGa7SR7.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Lov3",
+    "id": "tt12279642",
+    "video": "https://embedder.net/e/tt12279642",
+    "poster": "https://image.tmdb.org/t/p/w300/5vEnasSUxuhV8WvsnuDCasuavAx.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Inventing Anna",
+    "id": "tt8740976",
+    "video": "https://embedder.net/e/tt8740976",
+    "poster": "https://image.tmdb.org/t/p/w300/h8e5vYPuFTK9Dhv79CEiCVMq11c.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "The Cuphead Show!",
+    "id": "tt10611608",
+    "video": "https://embedder.net/e/tt10611608",
+    "poster": "https://image.tmdb.org/t/p/w300/qI8jy4kXyQmIZWFvyjQO8nxIez4.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Vikings: Valhalla",
+    "id": "tt11311302",
+    "video": "https://embedder.net/e/tt11311302",
+    "poster": "https://image.tmdb.org/t/p/w300/izIMqapegdEZj0YVDyFATPR8adh.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Peaky Blinders",
+    "id": "tt2442560",
+    "video": "https://embedder.net/e/tt2442560",
+    "poster": "https://image.tmdb.org/t/p/w300/i0uajcHH9yogXMfDHpOXexIukG9.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Ice Age: Scrat Tales",
+    "id": "tt18302114",
+    "video": "https://embedder.net/e/tt18302114",
+    "poster": "https://image.tmdb.org/t/p/w300/lJCe6cQl4PfFMIN4jZCSrEpOXW.jpg",
+    "type": "serie"
+  }
+]
