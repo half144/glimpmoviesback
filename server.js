@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const db = require("./db/dataMovies");
 const cors = require("cors");
-port = process.env.PORT || 80;
+port = process.env.PORT || 40;
 
 const allMoviesLowerCase = db.allItems.map((movie) => ({
   name: String(movie.name).toLowerCase(),
@@ -18,39 +18,39 @@ app.listen(port, () => {
 });
 
 app.get("/action", (req, res) => {
-  res.json(db.action.slice(0, 80));
+  res.json(db.action.slice(0, 40));
 });
 
 app.get("/romance", (req, res) => {
-  res.json(db.romance.slice(0, 80));
+  res.json(db.romance.slice(0, 40));
 });
 
 app.get("/adventure", (req, res) => {
-  res.json(db.adventure.slice(0, 80));
+  res.json(db.adventure.slice(0, 40));
 });
 
 app.get("/crime", (req, res) => {
-  res.json(db.crime.slice(0, 80));
+  res.json(db.crime.slice(0, 40));
 });
 
 app.get("/comedy", (req, res) => {
-  res.json(db.comedy.slice(0, 80));
+  res.json(db.comedy.slice(0, 40));
 });
 
 app.get("/drama", (req, res) => {
-  res.json(db.drama.slice(0, 80));
+  res.json(db.drama.slice(0, 40));
 });
 
 app.get("/mistery", (req, res) => {
-  res.json(db.mistery.slice(0, 80));
+  res.json(db.mistery.slice(0, 40));
 });
 
 app.get("/terror", (req, res) => {
-  res.json(db.terror.slice(0, 80));
+  res.json(db.terror.slice(0, 40));
 });
 
 app.get("/fantasy", (req, res) => {
-  res.json(db.fantasy.slice(0, 80));
+  res.json(db.fantasy.slice(0, 40));
 });
 
 app.get("/getall", (req, res) => {
