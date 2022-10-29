@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const db = require("./db/dataMovies");
+const cors = require("cors");
 port = process.env.PORT || 80;
 
 const allMoviesLowerCase = db.allItems.map((movie) => ({
