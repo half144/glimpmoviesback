@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const db = require("./db/dataMovies");
 const cors = require("cors");
-port = process.env.PORT || 40;
+port = process.env.PORT || 3000;
 
 const allMoviesLowerCase = db.allItems.map((movie) => ({
   name: String(movie.name).toLowerCase(),
